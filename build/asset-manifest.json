@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d1928fce.css",
+    "main.js": "/static/js/main.beb143d7.js",
+    "static/media/movie-ticket.png": "/static/media/movie-ticket.4d003359278f78292a43.png",
+    "index.html": "/index.html",
+    "main.d1928fce.css.map": "/static/css/main.d1928fce.css.map",
+    "main.beb143d7.js.map": "/static/js/main.beb143d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1928fce.css",
+    "static/js/main.beb143d7.js"
+  ]
+}
